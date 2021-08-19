@@ -3,9 +3,9 @@
 
   body
   {
-    background: url('images/page_gradient.png') center no-repeat;
-    background-color: #4f30a7 ;
-      color:white;
+    /* background-image: url('images/page_gradient.png') center no-repeat;
+    background-color: #4f30a7 ; */
+    
   }
 
 .logo
