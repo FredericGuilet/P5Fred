@@ -1,6 +1,8 @@
 /* Feuille de style */
 
-
+body {
+  margin: 0; /* pour éviter les marges */
+}
 
 .logo 
 {
@@ -24,6 +26,6 @@ p {
 
 .row 
 {
-  max-width: 1000px;
+  max-width: 1300px;
 
 }
