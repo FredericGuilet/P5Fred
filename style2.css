@@ -15,6 +15,11 @@ flex-direction: column-reverse;
   width: 439px;
 }
 
+.img{
+  width: 57px;
+  height: 57px;
+  
+}
 a
 {
 color:white;
