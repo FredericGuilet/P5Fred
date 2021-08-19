@@ -1,17 +1,13 @@
 /* Feuille de style */
 
 
-  body
-  {
-    /* background-image: url('images/page_gradient.png') center no-repeat;
-    background-color: #4f30a7 ; */
-    
-  }
 
 .logo
 {
-  
   width: 439px;
-  align-items: center;
+}
 
+p
+{
+color:white;
 }
