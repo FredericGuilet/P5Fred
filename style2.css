@@ -21,3 +21,9 @@ color:white;
 p {
   text-align: center;
 }
+
+.row 
+{
+  max-width: 1000px;
+
+}
