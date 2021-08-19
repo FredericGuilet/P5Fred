@@ -2,12 +2,22 @@
 
 
 
-.logo
+.logo 
 {
+  width: 100%;
+  display: flex;
+flex-direction: column-reverse;
+}
+
+.logo img{
   width: 439px;
 }
 
 a
 {
 color:white;
+}
+
+p {
+  text-align: center;
 }
